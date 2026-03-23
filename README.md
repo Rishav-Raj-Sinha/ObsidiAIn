@@ -2,7 +2,7 @@
  
 > A fully local, privacy-first AI-powered CLI assistant for your Obsidian vault.
  
-![ss](obsidiain.png)
+![ss](obsidiAIn.gif)
 ---
  
 ## 100% Local. 100% Private.
